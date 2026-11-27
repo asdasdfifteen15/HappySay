@@ -1,0 +1,9 @@
+AC:Answer Coarse,粗劣的答案
+CE:Compile Easily:轻松通过编译
+PC:Perfect Compile:完美的编译
+WA:Wonderful Answer:好答案
+RE:Run Excellently:完美运行
+TLE:Time Limit E:时间充裕
+MLE:Memory Limit Enough:内存充裕
+O:Ontput Limit Enough:输出合法
+UKE:Unbelievably Keep Enough Scor:难以置信地保持足够的分数
